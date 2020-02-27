@@ -3,3 +3,4 @@ C:\Users\jayna\source\repos\DotNetLabSolution\Practical1\bin\Debug\Practical1.ex
 C:\Users\jayna\source\repos\DotNetLabSolution\Practical1\bin\Debug\Practical1.pdb
 C:\Users\jayna\source\repos\DotNetLabSolution\Practical1\obj\Debug\Practical1.exe
 C:\Users\jayna\source\repos\DotNetLabSolution\Practical1\obj\Debug\Practical1.pdb
+C:\Users\jayna\source\repos\DotNetLabSolution\Practical1\obj\Debug\Practical1.csprojAssemblyReference.cache

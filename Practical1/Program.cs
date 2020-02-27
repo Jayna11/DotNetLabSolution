@@ -16,11 +16,7 @@ namespace Practical1
             //Pattern();
             Console.Read();
         }
-
-      
-    
-        
-        
+ 
         private static void Pattern3()
         {
             for (int i = 5; i >= 1; i--)
