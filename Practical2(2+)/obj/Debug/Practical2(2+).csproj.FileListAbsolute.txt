@@ -1,0 +1,6 @@
+C:\Users\jayna\source\repos\DotNetLabSolution\Practical2(2+)\bin\Debug\Practical2(2+).exe.config
+C:\Users\jayna\source\repos\DotNetLabSolution\Practical2(2+)\bin\Debug\Practical2(2+).exe
+C:\Users\jayna\source\repos\DotNetLabSolution\Practical2(2+)\bin\Debug\Practical2(2+).pdb
+C:\Users\jayna\source\repos\DotNetLabSolution\Practical2(2+)\obj\Debug\Practical2(2+).csprojAssemblyReference.cache
+C:\Users\jayna\source\repos\DotNetLabSolution\Practical2(2+)\obj\Debug\Practical2(2+).exe
+C:\Users\jayna\source\repos\DotNetLabSolution\Practical2(2+)\obj\Debug\Practical2(2+).pdb
